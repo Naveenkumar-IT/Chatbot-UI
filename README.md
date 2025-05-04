@@ -33,7 +33,7 @@ A modern, mobile-responsive Personal Assistant Chatbot interface built using HTM
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![light](assets/light-mode.png) | ![dark](assets/dark-mode.png) |
+| ![light](assets/Light-mode.png) | ![dark](assets/Dark-mode.png) |
 
 ---
 
