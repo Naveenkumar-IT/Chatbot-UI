@@ -2,7 +2,7 @@
 
 A modern, mobile-responsive Personal Assistant Chatbot interface built using HTML, CSS, and JavaScript. The chatbot provides voice input, fun interactions like weather updates, motivational quotes, and fun facts — all wrapped in a beautiful UI with dark mode support and animated chat responses.
 
-![screenshot](assets/screenshot.png) <!-- Replace with your actual screenshot path -->
+![screenshot](assets/Screenshot.png) <!-- Replace with your actual screenshot path -->
 
 ---
 
