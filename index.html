@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Personal Assistant Chatbot</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="chat-wrapper">
+    <header class="chat-header">
+      <h1>💬 Personal Assistant</h1>
+      <div class="top-controls">
+        <button id="themeToggle" title="Toggle Dark Mode"><i class="fas fa-moon"></i></button>
+        <button id="clearChat"><i class="fas fa-trash-alt"></i> </button> 
+      </div>
+    </header>
+
+    <main class="chat-box" id="chatBox">
+      <!-- Messages will appear here -->
+    </main>
+
+    <div class="suggestions" id="suggestionsBox"></div>
+
+    <footer class="chat-input-area">
+      <input type="text" id="userInput" placeholder="Ask me anything..." />
+      <button id="micBtn" title="Speak to chat"><i class="fas fa-microphone"></i></button>
+      <button id="sendBtn">Send</button>
+    </footer>    
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
